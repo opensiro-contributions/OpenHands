@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "20261120T185516Z--openhands-independent-roadmap-bootstrap",
+  "recorded_at": "2026-11-20T18:55:16Z",
+  "actor": "OpenSiro roadmap agent following owner's one-harness request in Upstream #58",
+  "kind": "DECISION",
+  "decision": "Initial outside-cohort OpenHands roadmap case created with conservative DORMANT/PAUSE control; source-first bounded S2=C proposal GO / NEEDS_EVIDENCE; no authorization for subsequent metadata writes or external publication.",
+  "evidence_urls": [
+    "https://github.com/opensiro/upstream/issues/58#issuecomment-7047681990",
+    "https://github.com/opensiro/upstream/issues/58#issuecomment-7047805738",
+    "https://github.com/OpenHands/OpenHands/commit/d5d790823e468587e9e4d8517860ca8ef75aad6a",
+    "https://github.com/opensiro/vsm-harness-index/blob/a3fcf7c156ef4d1132680890bc11544681fd30c0/assessments/op/openhands.md"
+  ],
+  "note": "Original 23-case ACTIVE/ALLOW activation is not presumed to grant a persistent new OpenHands ALLOW. The initial selected-roadmap bootstrap is distinct from owner RESUME. The fork's public Issues and original maintainer communication remain subject to separate exact current-conversation consent.",
+  "next_action": "Remote readback and both validators; then release #58 claim. A later owner RESUME would be required before any follow-up fork-local revisions. Public fork Issue remains draft."
+}
